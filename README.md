@@ -136,22 +136,3 @@ new Event({
 
 9. Run the command `node .` or `npm run start` to start the bot.
 10. Enjoy! The bot should be online.
-
-## Contributing
-Feel free to fork the repository and submit a new pull request if you wish to contribute to this project.
-
-Before you submit a pull request, ensure you tested it and have no issues. Also, keep the same coding style, which means don't use many unnecessary spaces or tabs.
-
-Thank you to all the people who contributed to **DiscordJS-V14-Bot-Template**!
-
-<img src="https://contrib.rocks/image?repo=TFAGaming/DiscordJS-V14-Bot-Template">
-
-## Support
-Join our Discord server if you have any questions to ask, or if you have a problem with this project, you can go to the [issues section](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template/issues) and submit a new issue.
-
-<a href="https://discord.gg/E6VFACWu5V">
-  <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
-</a>
-
-## License
-[**GPL-3.0**](./LICENSE), General Public License v3
